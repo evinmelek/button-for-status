@@ -1,0 +1,30 @@
+
+{
+   "button": { 
+    "id":"1", 
+    "caption":"Yemek Sepeti"
+   },
+   "data":{ },
+   "status1": {
+      "id": 1,
+      "caption": "49",
+      "colour": "white"
+    },
+    "status2":{
+      "id": 2,
+      "caption": "09:03",
+      "colour": "yellow"
+    },
+    "status3":{
+      "id": 3,
+      "caption": "10,75",
+      "colour": "red"
+    },
+    "status4":{
+      "id": 4,
+      "caption": "Hüseyin",
+      "colour": "green"
+    }
+}
+
+ 
